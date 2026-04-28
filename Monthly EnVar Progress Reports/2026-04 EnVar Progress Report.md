@@ -10,28 +10,28 @@
 <thead>
 <tr>
 <th width="70">Deliverable ID</th>
-<th width="160">Deliverable Title</th>
-<th width="380">Description</th>
-<th width="160">Milestone</th>
+<th width="170">Deliverable Title</th>
+<th width="160">Description</th>
+<th width="170">Milestone</th>
 <th width="80">Status</th>
 <th width="80">Due Date</th>
-<th width="240">Progress Update</th>
+<th width="320">Progress Update</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td align="center"><a href="https://github.com/monarch-initiative/EnVar-Tracker/issues/1">D1.1</a></td>
 <td>Project Infrastructure &amp; Governance Hub</td>
-<td>Establishment of the central technical and administrative coordination points. This includes the EnVar GitHub repository under the Monarch Initiative organization, a standardized Google Drive folder hierarchy, and the configuration of the CLAD Slack channel for daily operations.</td>
+<td><details><summary>View</summary>Establishment of the central technical and administrative coordination points. This includes the EnVar GitHub repository under the Monarch Initiative organization, a standardized Google Drive folder hierarchy, and the configuration of the CLAD Slack channel for daily operations.</details></td>
 <td>Milestone 1 – Foundational Setup &amp; Onboarding</td>
 <td align="center">Complete</td>
 <td align="center">Apr 8, 2026</td>
-<td><strong>Progress Report – April 14:</strong><br>– Created EnVar GitHub repository: https://github.com/monarch-initiative/envar<br>– Created Milestones &amp; Deliverables Tracker: https://github.com/monarch-initiative/EnVar-Tracker<br>– Created Google Drive folder: https://drive.google.com/drive/folders/0ADJCDDiDri_mUk9PVA<br>– Created CLAD Slack channel for daily operations: niehs-standards</td>
+<td><strong>Progress Report – April 14:</strong><br>• Created EnVar GitHub repository under the Monarch Initiative organization: https://github.com/monarch-initiative/envar<br>• Created Milestones &amp; Deliverables Tracker in GitHub: https://github.com/monarch-initiative/EnVar-Tracker<br>• Created Google Drive folder: https://drive.google.com/drive/folders/0ADJCDDiDri_mUk9PVA<br>• Created CLAD Slack channel for daily operations: niehs-standards</td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/monarch-initiative/EnVar-Tracker/issues/2">D1.2</a></td>
 <td>Environment &amp; Data Access Provisioning</td>
-<td>Successful onboarding of technical leads (Corey and Madan) to the CLAD/All of Us (AOU) environment. This ensures the team has the necessary permissions to access the CHEL dataset and existing environmental ETL pipelines.</td>
+<td><details><summary>View</summary>Successful onboarding of technical leads (Corey and Madan) to the CLAD/All of Us (AOU) environment. This ensures the team has the necessary permissions to access the CHEL dataset and existing environmental ETL pipelines.</details></td>
 <td>Milestone 1 – Foundational Setup &amp; Onboarding</td>
 <td align="center">Deprecated</td>
 <td align="center">Apr 21, 2026</td>
@@ -40,7 +40,7 @@
 <tr>
 <td align="center"><a href="https://github.com/monarch-initiative/EnVar-Tracker/issues/3">D2.1</a></td>
 <td>Environmental Data Standards Landscape Report</td>
-<td>A synthesized report led by Nico, documenting existing work by the OHDSI GIS group, Epic "Healthy Planet" SDOH modules, and Monarch-affiliated geospatial projects. It identifies current methods for linking geospatial data to clinical outcomes.</td>
+<td><details><summary>View</summary>A synthesized report led by Nico, documenting existing work by the OHDSI GIS group, Epic "Healthy Planet" SDOH modules, and Monarch-affiliated geospatial projects. It identifies current methods for linking geospatial data to clinical outcomes.</details></td>
 <td>Milestone 2 – Landscape Discovery &amp; Gap Analysis</td>
 <td align="center">In Progress</td>
 <td align="center">Apr 24, 2026</td>
@@ -49,7 +49,7 @@
 <tr>
 <td align="center"><a href="https://github.com/monarch-initiative/EnVar-Tracker/issues/4">D2.2</a></td>
 <td>OMOP-GIS Technical Audit</td>
-<td>A technical review of current OMOP CDM extensions and the GAIA catalog. This document identifies why current OHDSI approaches are "inadequate" for complex environmental "nuggets" and sets the baseline for required model changes.</td>
+<td><details><summary>View</summary>A technical review of current OMOP CDM extensions and the GAIA catalog. This document identifies why current OHDSI approaches are "inadequate" for complex environmental "nuggets" and sets the baseline for required model changes.</details></td>
 <td>Milestone 2 – Landscape Discovery &amp; Gap Analysis</td>
 <td align="center">In Progress</td>
 <td align="center">May 1, 2026</td>
