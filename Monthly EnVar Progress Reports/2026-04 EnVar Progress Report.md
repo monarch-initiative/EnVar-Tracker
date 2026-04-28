@@ -6,17 +6,21 @@
 
 ## Deliverable Status
 
-| Deliverable | Description | Milestone | Status | Projected Completion | Report Update | Plans for Next Month |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **D1.1** [Project Infrastructure & Governance Hub](https://github.com/monarch-initiative/EnVar-Tracker/issues/1) | Establishment of central technical and administrative coordination points: GitHub repo, Google Drive folder hierarchy, and CLAD Slack channel for daily operations. | M1 – Foundational Setup & Onboarding | Complete | 2026-04-08 | **Apr 14:** Created EnVar GitHub repo, Milestones & Deliverables Tracker, Google Drive folder, and CLAD Slack channel (niehs-standards). | |
-| **D1.2** [Environment & Data Access Provisioning](https://github.com/monarch-initiative/EnVar-Tracker/issues/2) | Successful onboarding of technical leads (Corey and Madan) to the CLAD/All of Us (AOU) environment to access the CHEL dataset and environmental ETL pipelines. | M1 – Foundational Setup & Onboarding | Deprecated | 2026-04-21 | **Apr 24:** Onboarding to CLAD is not possible — technical leads must be paid staff to access the DLP platform. Decision made by Melissa and Julie. Issue deprecated. | |
-| **D2.1** [Environmental Data Standards Landscape Report](https://github.com/monarch-initiative/EnVar-Tracker/issues/3) | A synthesized report documenting existing work by the OHDSI GIS group, Epic "Healthy Planet" SDOH modules, and Monarch-affiliated geospatial projects identifying current methods for linking geospatial data to clinical outcomes. | M2 – Landscape Discovery & Gap Analysis | Overdue | 2026-04-24 | **Apr 28:** Analysis progressing from broad identification to technical synthesis. Documented OHDSI GIS extension standards and Epic SDOH modules. Key finding: "metadata loss" during clinical ingestion. Microschemas identified as standardized intermediary. Two linking methods identified: direct OMOP integration via Gaia catalog and a pre-standardized pipeline to preserve environmental metadata. | |
-| **D2.2** [OMOP-GIS Technical Audit](https://github.com/monarch-initiative/EnVar-Tracker/issues/4) | A technical review of current OMOP CDM extensions and the GAIA catalog identifying why current OHDSI approaches are inadequate for complex environmental "nuggets" and setting the baseline for required model changes. | M2 – Landscape Discovery & Gap Analysis | In Progress | 2026-05-01 | **Apr 28:** Substantial audit shared at project meeting. Completed review of OMOP CDM GIS extension (External Exposure, Location History tables; GIS/Expozone/SDOH vocabularies). Formally identified "metadata loss" as primary inadequacy. Active prototyping phase begun — two NIEHS data sources selected to demonstrate a full pipeline preserving environmental "nuggets" before Gaia catalog ingestion. | |
+| Deliverable ID | Deliverable Title | Description | Milestone | Status | Due&nbsp;Date | Progress Update |
+| :---: | :--- | :--- | :--- | :---: | :---: | :--- |
+| [D1.1](https://github.com/monarch-initiative/EnVar-Tracker/issues/1) | Project Infrastructure & Governance Hub | Establishment of central technical and administrative coordination points, including the GitHub repository, Google Drive folder hierarchy, and CLAD Slack channel for daily operations. | M1 – Foundational Setup & Onboarding | Complete | Apr&nbsp;8,&nbsp;2026 | **Apr 14:** GitHub repo, Drive folder, and Slack channel (niehs-standards) created. |
+| [D1.2](https://github.com/monarch-initiative/EnVar-Tracker/issues/2) | Environment & Data Access Provisioning | Successful onboarding of technical leads (Corey and Madan) to the CLAD/All of Us (AOU) environment to access the CHEL dataset and existing environmental ETL pipelines. | M1 – Foundational Setup & Onboarding | Deprecated | Apr&nbsp;21,&nbsp;2026 | **Apr 24:** CLAD onboarding not possible — requires paid staff DLP access. Deprecated per Melissa and Julie. |
+| [D2.1](https://github.com/monarch-initiative/EnVar-Tracker/issues/3) | Environmental Data Standards Landscape Report | A synthesized report documenting existing work by the OHDSI GIS group, Epic "Healthy Planet" SDOH modules, and Monarch-affiliated geospatial projects, identifying current methods for linking geospatial data to clinical outcomes. | M2 – Landscape Discovery & Gap Analysis | In Progress | Apr&nbsp;24,&nbsp;2026 | **Apr 28:** Shifted to technical synthesis. Documented OHDSI GIS extensions and Epic SDOH modules. Key finding: "metadata loss" during clinical ingestion; microschemas proposed as intermediary. Two pipeline approaches identified via SOMA/CMDR. |
+| [D2.2](https://github.com/monarch-initiative/EnVar-Tracker/issues/4) | OMOP-GIS Technical Audit | A technical review of current OMOP CDM extensions and the GAIA catalog identifying why current OHDSI approaches are inadequate for complex environmental "nuggets" and setting the baseline for required model changes. | M2 – Landscape Discovery & Gap Analysis | In Progress | May&nbsp;1,&nbsp;2026 | **Apr 28:** Audit shared at project meeting. Reviewed External Exposure and Location History tables and GIS/Expozone/SDOH vocabularies. "Metadata loss" formally documented. Prototyping begun with two NIEHS data sources. |
 
 ---
 
 ## Summary
 
-**Total deliverables tracked this period:** 4 &nbsp;|&nbsp; **Complete:** 1 &nbsp;|&nbsp; **In Progress:** 1 &nbsp;|&nbsp; **Overdue:** 1 &nbsp;|&nbsp; **Deprecated:** 1
-
 April marked the project's launch month, with Milestone 1 substantially completed — infrastructure is in place and the AOU access blocker was resolved by deprecating that deliverable. Landscape analysis work (M2) is actively underway with rich technical findings already documented, though D2.1 has slipped past its April 24 projected date.
+
+## Plans for Next Month
+
+-
+-
+-
