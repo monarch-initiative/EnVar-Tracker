@@ -56,10 +56,30 @@ Use this exact structure:
 
 ## Deliverable Status
 
-| Deliverable ID | Deliverable Title | Description | Milestone | Status | Due&nbsp;Date | Progress Update |
-| :---: | :--- | :--- | :--- | :---: | :---: | :--- |
-| [D1.1](issue-url) | Title | Full description from issue body — do not trim or summarize. | M1 – Foundational Setup & Onboarding | Complete | Apr&nbsp;8,&nbsp;2026 | **Apr 14:** Update text here. |
-...
+<table>
+<thead>
+<tr>
+<th width="70">Deliverable ID</th>
+<th width="160">Deliverable Title</th>
+<th width="380">Description</th>
+<th width="160">Milestone</th>
+<th width="80">Status</th>
+<th width="80">Due Date</th>
+<th width="240">Progress Update</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="issue-url">D1.1</a></td>
+<td>Title</td>
+<td>Full issue body verbatim — do not trim or summarize.</td>
+<td>Milestone 1 – Foundational Setup &amp; Onboarding</td>
+<td align="center">Complete</td>
+<td align="center">Apr 8, 2026</td>
+<td><strong>Progress Report – Apr 14:</strong><br>Full comment text verbatim.</td>
+</tr>
+</tbody>
+</table>
 
 ---
 
@@ -76,11 +96,13 @@ Narrative paragraph summarizing the month's activity, any blockers, and overall 
 
 **Status values** — use exactly as shown on the project board: Complete, In Progress, Not Started, Deprecated. Do not invent statuses like "Overdue."
 
-**Description** — use the full issue body text verbatim. Do not trim, summarize, or shorten.
+**Description** — use the full issue body text verbatim. Do not trim, summarize, or shorten. Escape `&` as `&amp;` and `"` as `"` inside HTML cells.
 
-**Due Date** — use `Mon&nbsp;D,&nbsp;YYYY` format (e.g. `Apr&nbsp;8,&nbsp;2026`) so the date never wraps.
+**Progress Update** — use the full comment text verbatim. Format bullet points with `<br>–` for line breaks within the cell.
 
-**Milestone** — full name (e.g. `M1 – Foundational Setup & Onboarding`).
+**Due Date** — use `Mon D, YYYY` format (e.g. `Apr 8, 2026`).
+
+**Milestone** — full name from GitHub (e.g. `Milestone 1 – Foundational Setup &amp; Onboarding`).
 
 ---
 
