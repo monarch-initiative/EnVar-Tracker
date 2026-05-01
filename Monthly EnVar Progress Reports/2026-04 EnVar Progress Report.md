@@ -62,7 +62,9 @@
 
 ## Summary
 
-April marked the project's launch month, with Milestone 1 substantially completed — infrastructure is in place and the AOU access blocker was resolved by deprecating that deliverable. Landscape analysis work (M2) is actively underway with rich technical findings already documented, though D2.1 has slipped past its April 24 projected date.
+-
+-
+-
 
 ## Plans for Next Month
 
