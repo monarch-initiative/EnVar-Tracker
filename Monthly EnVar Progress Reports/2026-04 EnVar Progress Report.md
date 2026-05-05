@@ -57,17 +57,3 @@
 </tr>
 </tbody>
 </table>
-
----
-
-## Summary
-
--
--
--
-
-## Plans for Next Month
-
--
--
--
